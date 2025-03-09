@@ -74,9 +74,9 @@ Exemplo básico de uso
 ## 👨‍💻 Autores
 
 Desenvolvido por:
-Lucas Alves Piereti - RM 559533
-Rafaela Heer Robinson - RM 560249
-Witalon Antonio Rodrigues - RM 559023
+Lucas Alves Piereti - RM 559533<br>
+Rafaela Heer Robinson - RM 560249<br>
+Witalon Antonio Rodrigues - RM 559023<br>
 Julia Hadja Kfouri Nunes - RM 559410
 
 # 🔗 Links
