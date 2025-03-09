@@ -1,6 +1,6 @@
 ## 📦 Gerador de Fakename
 
-Gerador de nomes falsos simples, cria nomes combinando o primeiro e último nome de frutas e pessoas.
+Gerador de nomes falsos simples, cria nomes combinando o seu primeiro nome, com o nome de uma fruta, combinando nomes de frutas e pessoas.
 Foi desenvolvido como parte do Checkpoint 4 de Web Development da FIAP.
 
 ## 🚀 Como funciona
