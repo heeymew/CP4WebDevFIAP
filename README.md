@@ -10,9 +10,9 @@ Também utilizamos o pacote `@heeymew/gatinhoslog`, ele irá imprimir uma mensag
 
 ## 🐱 Exemplo de saída
 
-╭─────────────────────────────╮ 
-│ Oi gente, eu sou Ana Uva! │ |
-╰─────────────────────────────╯
+╭────────────────╮<br> 
+│  Oi gente, eu sou Ana Uva!  |<br>
+╰────────────────╯<br>
 
          _
          \`*-.
@@ -67,17 +67,17 @@ Exemplo básico de uso
 
 ## 📚 Tecnologias Utilizadas
 
-- **Node.js** (v22+)
-- **Chalk** - estilização de textos no terminal
-- **Boxen** - cria caixas no terminal
+- Node.js (v22+)
+- Chalk - estilização de textos no terminal
+- Boxen - cria caixas no terminal
 
 ## 👨‍💻 Autores
 
 Desenvolvido por:
-Julia Hadja Kfouri Nunes - RM 559410
 Lucas Alves Piereti - RM 559533
 Rafaela Heer Robinson - RM 560249
 Witalon Antonio Rodrigues - RM 559023
+Julia Hadja Kfouri Nunes - RM 559410
 
 # 🔗 Links
 
