@@ -1,0 +1,16 @@
+{
+  "name": "teste-fakename",
+  "version": "1.0.0",
+  "main": "fakename.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@heeymew/fakename": "^1.0.0"
+  }
+}

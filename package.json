@@ -1,0 +1,31 @@
+{
+  "name": "@heeymew/fakename",
+  "version": "1.0.0",
+  "description": "Gerador de nomes falsos simples, cria nomes combinando o primeiro e último nome de frutas e pessoas.\r Foi desenvolvido como parte do checkpoint 4 de Web Development da FIAP.",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heeymew/CP4WebDevFIAP.git"
+  },
+  "keywords": [
+    "fakename",
+    "nodejs",
+    "checkpoint04"
+  ],
+  "author": "Lucas Alves Piereti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heeymew/CP4WebDevFIAP/issues"
+  },
+  "homepage": "https://github.com/heeymew/CP4WebDevFIAP#readme",
+  "dependencies": {
+    "@heeymew/fakename": "^1.0.0",
+    "@heeymew/gatosolelog": "^1.0.0",
+    "boxen": "^8.0.1"
+  },
+  "devDependencies": {}
+}

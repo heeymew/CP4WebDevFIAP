@@ -1,0 +1,23 @@
+{
+  "name": "@heeymew/gatinhoslog",
+  "version": "1.0.0",
+  "main": "consolelog.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "cat",
+    "ascii",
+    "nodejs"
+  ],
+  "author": "Lucas Alves Piereti", 
+  "license": "ISC",
+  "description": "Um gatinho bonitinho grande em ascii",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.4.1"
+  }
+}
