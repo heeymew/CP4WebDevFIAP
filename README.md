@@ -30,9 +30,9 @@ Também utilizamos o pacote `@heeymew/gatinhoslog`, e o pacote `@heeymew/cp4webd
            `*-*   `*-*  `*-*'
 
 
- ╭─────────────────────────╮
- │  Testando gatinhoslog!  │
- ╰─────────────────────────╯
+ ╭────────────────╮<br> 
+ │Fazendo teste gatinhoslog!     |<br>
+ ╰────────────────╯<br>
 
           ,
        `-._           __
