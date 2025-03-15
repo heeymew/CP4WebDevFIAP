@@ -58,13 +58,14 @@ Também utilizamos o pacote `@heeymew/gatinhoslog`, e o pacote `@heeymew/cp4webd
       :       :;      :::....|     |
       /\     ,/ \      ;:::::;     ;
     .:. \:..|    :     ; '.--|     ;
-   ::.  :''  `-.,,;     ;'   ;     ;
-.-'. _.'\      / `;      \,__:      \
-`---'    `----'   ;      /    \,.,,,/
+    ::.  :''  `-.,,;     ;'   ;     ;
+    .-'. _.'\      / `;      \,__:      \
+    `---'    `----'   ;      /    \,.,,,/
                    `----`
 Meow! 🐱
 
 ## 🛠️ Instalação e Configuração
+## Instalação por Git Clone
 
 1. Clone este repositório com o comando
 
@@ -98,6 +99,8 @@ Exemplo básico de uso
 
     import gatinhoslog from "@heeymew/gatinhoslog";
     import fakename from "@heeymew/fakename";
+    import gatinhoslog from "@heeymew/cp4webdev";
+    
     gatinhoslog(`Oi gente, eu sou ${fakename()}`);
     gatosolelog(`Oi gente, eu sou ${fakename()}`);
 
@@ -120,3 +123,4 @@ Julia Hadja Kfouri Nunes - RM 559410
 - [Repositório no GitHub](https://github.com/heeymew/CP4WebDevFIAP)
 - [Pacote @heeymew/fakename no NPM](https://www.npmjs.com/package/@heeymew/fakename)
 - [Pacote @heeymew/gatinhoslog no NPM](https://www.npmjs.com/package/@heeymew/gatinhoslog)
+- [Pacote @heeymew/cp4webdev no NPM](https://www.npmjs.com/package/@heeymew/cp4webdev)
