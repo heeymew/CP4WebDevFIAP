@@ -6,7 +6,7 @@ Foi desenvolvido como parte do Checkpoint 4 de Web Development da FIAP.
 ## 🚀 Como funciona
 
 Foram usados os pacotes: chalk e boxen. Utilizando a função `fakename()` que retornará um nome aleatório.
-Também utilizamos o pacote `@heeymew/gatinhoslog`, ele irá imprimir uma mensagem em uma caixa com um gatinho feito em ASCII.
+Também utilizamos o pacote `@heeymew/gatinhoslog`, e o pacote `@heeymew/cp4webdev` ele irá imprimir uma mensagem em uma caixa com um gatinho feito em ASCII.
 
 ## 🐱 Exemplo de saída
 
@@ -29,6 +29,40 @@ Também utilizamos o pacote `@heeymew/gatinhoslog`, ele irá imprimir uma mensag
            ; '   : :`-:     _. `* ;
            `*-*   `*-*  `*-*'
 
+
+ ╭─────────────────────────╮
+ │  Testando gatinhoslog!  │
+ ╰─────────────────────────╯
+
+          ,
+       `-._           __
+        \  `-..____,.'  `.
+         :`.         /    `
+         :  )       :      : \
+          ;'        '   ;  |  :
+          )..      .. .:.`.;  :
+         /::...  .:::...   ` ;
+         ; _ '    __        /:\
+         `:o>   /\o_>      ;:. `.
+        `-.`.__ ;   __..--- /:.   \
+        === \_/   ;=====_.':.     ;
+         ,/'`--'...`--....        ;
+              ;                    ;
+            .'                      ;
+          .'                        ;
+        .'     ..     ,      .       ;
+       :       ::..  /      ;::.     |
+      /      `.;::.  |       ;:..    ;
+     :         |:.   :       ;:.    ;
+     :         ::     ;:..   |.    ;
+      :       :;      :::....|     |
+      /\     ,/ \      ;:::::;     ;
+    .:. \:..|    :     ; '.--|     ;
+   ::.  :''  `-.,,;     ;'   ;     ;
+.-'. _.'\      / `;      \,__:      \
+`---'    `----'   ;      /    \,.,,,/
+                   `----`
+Meow! 🐱
 
 ## 🛠️ Instalação e Configuração
 
@@ -56,6 +90,7 @@ Abra o seu terminal e utilize os comandos para instalar os pacotes
 
     npm install @heeymew/fakename
     npm install @heeymew/gatinhoslog
+    npm install @heeymew/cp4webdev
 
 ## 🐱 Como utilizar no seu projeto
 
@@ -64,6 +99,7 @@ Exemplo básico de uso
     import gatinhoslog from "@heeymew/gatinhoslog";
     import fakename from "@heeymew/fakename";
     gatinhoslog(`Oi gente, eu sou ${fakename()}`);
+    gatosolelog(`Oi gente, eu sou ${fakename()}`);
 
 ## 📚 Tecnologias Utilizadas
 
